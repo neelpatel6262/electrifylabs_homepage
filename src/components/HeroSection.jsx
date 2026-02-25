@@ -1,5 +1,5 @@
 import { ArrowUpRight, Zap, Star as StarIcon } from 'lucide-react';
-import frame from '../assets/frame.svg';
+import frame from '../assets/Frame.svg';
 import HeroImg from '../assets/heo-img.svg';
 
 
@@ -18,7 +18,7 @@ function HeroSection() {
           {/* CRM / Rating Row */}
           <div className="crm-section">
             <div className="frame">
-              <img src={frame} alt="frame" />
+              <img src={Frame} alt="frame" />
             </div>
             <div className="rating-section">
               <div className="rating-section-container">
